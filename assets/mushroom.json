@@ -1,0 +1,31 @@
+[{
+        "mushroom": "Borowik szlachetny",
+        "description": "Jadalny. Bardzo smaczny i wysoko ceniony w kuchni z uwagi na zwarty miąższ, nie czerniejący w czasie obróbki. Susz ma silny, przyjemny, charakterystyczny aromat i pozostaje jasny, nie ciemnieje jak w przypadku wielu innych gatunków grzybów rurkowych. Susz dodany do potraw nadaje im niepowtarzalny, przyjemny smak i zapach. ",
+        "picture": "https://grzyby.pl/foto/01/010902-34.jpg"
+    },
+    {
+        "mushroom": "Borowik szatański",
+        "description": "Trujący. Niedogotowany powoduje silne niedyspozycje żołądkowo-jelitowe. Dobrze ugotowany podobno daje się zjeść bez obawy. ",
+        "picture": "https://ocdn.eu/pulscms-transforms/1/Puak9kpTURBXy84YWVmNmQ4MDYzZjRlZDhiZTZkZjZmNDQ4ZGUzN2NiMC5qcGeSlQMAzGrNA-jNAjOTBc0DAs0BkN4AAaEwBQ"
+    },
+    {
+        "mushroom": "Pieprznik jadalny (Kurki)",
+        "description": "Jadalny. Podstawowa zaleta to przyjemny aromat i smak, praktycznie nigdy nie są opanowane przez larwy owadów i w stanie świeżym są stosunkowo trwałe (można je przechować przez kilka dni). Najczęściej zjadany świeży na gęsto i w sosach. Suszona traci wszystko. Marynata też nie pozostawia żadnych walorów ale przynajmniej zostaje zachowana konsystencja. ",
+        "picture": "https://zasoby.ekologia.pl/artykulyNew/20508/xxl/shutterstock-1418450570_800x600.jpg"
+    },
+    {
+        "mushroom": "Czubajka kania",
+        "description": "Jadalny.Zaleta to bardzo przyjemny aromat i smak oraz częste występowanie i charakterystyczny wygląd — mimo to wielu ludzi boi się zbierać ten gatunek i dobrze, bo jest więcej dla innych. Najczęściej spożywany jest jako smażony w panierce (ale można i bez). Można też zamrażać lub suszyć i po namoczeniu przyrządzać jak świeże kapelusze. ",
+        "picture": "https://bi.im-g.pl/im/3e/87/16/z23622462IER,Kania--czubajka-kania--to-gatunek-grzybow-zaliczan.jpg"
+    },
+    {
+        "mushroom": "Mleczaj rydz",
+        "description": "Jadalny. W opinii wielu najlepszy grzyb jadalny. Rzeczywiście są smaczne, tradycyjnie są smażone na patelni na świeżym maśle. Właściwy rydz rośnie wyłącznie pod sosnami. Pod innymi drzewami iglastymi rośną inne bardzo podobne gatunki rydzów ale istotnie różniące się walorami smakowymi. ",
+        "picture": "https://bi.im-g.pl/im/3d/87/16/z23622461IER,Mleczaj-rydz--inaczej-rydz-smaczny-lub-prawdziwy--.jpg"
+    },
+    {
+        "mushroom": "Gąska zielonka",
+        "description": "Jadalny.Rosną późną jesienią pod sosnami na glebach piaszczystych, często masowo, więc ich zbieranie jest bardzo przyjemne. Mogą być przyrządzane na gęsto lub marynowane, mają ciekawą, lekko chrupiącą konsystencję. ",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tricholoma_equestre_G7.jpg"
+    }
+]
